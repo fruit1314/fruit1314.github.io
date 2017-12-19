@@ -23,6 +23,19 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+
+.delicious {
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+}
+
+.delicious > img{
+  
+}
 .banner-body{
 	/*background:url(../images/banner.png) 0px 0px;*/
 	padding:5em 0;
@@ -287,16 +300,16 @@ i.envelope,.navbar-default .navbar-nav > li > a:hover i.envelope1{
 .banner,.banner1,.banner2{
 	min-height:400px;
 }
-.banner{
-	background:url(../images/big/DSC_1050.JPG) no-repeat 0px 0px;
+/*.banner{
+	background:url(../images/DSC_1050.JPG) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-}
+}*/
 .banner1{
-	background:url(../images/big/DSC_1165.JPG) no-repeat 0px 0px;
+	background:url(../images/DSC_1165.JPG) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -304,7 +317,7 @@ i.envelope,.navbar-default .navbar-nav > li > a:hover i.envelope1{
 	-ms-background-size:cover;
 }
 .banner2{
-	background:url(../images/big/DSC_1158.JPG) no-repeat 0px 0px;
+	background:url(../images/DSC_1158.JPG) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
