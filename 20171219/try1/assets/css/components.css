@@ -45,6 +45,7 @@ img-glamorous/*----------  0.1. Color  ----------*/
 }
 .wraper-our-success .text-success {
   margin-bottom: 40px;
+  font-family: '微軟正黑體';
 }
 .wraper-our-success .wrapper-col-left-success {
   position: relative;
@@ -1627,7 +1628,7 @@ color: #474747;
 .block-slider-team .slick-next {
   width: 40px;
   height: 40px;
-  background-color: #fff491;
+  background-color: #995300;
   z-index: 100;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -1686,7 +1687,7 @@ color: #474747;
   -o-transition: all 0.4s ease;
 }
 .block-slider-team .wrapper-slider-team.slick-current .links-slider-team {
-  border-color: #ffed00;
+  border-color: #995300;
 }
 .block-slider-team .content-slider-team {
   margin-left: auto;
@@ -1702,7 +1703,7 @@ color: #474747;
   -o-transform: scale(0.7);
 }
 .block-slider-team .slider-team-img:hover .links-slider-team {
-  border-color: #ffed00;
+  border-color: #995300;
 }
 .block-slider-team .slider-team-img .links-slider-team {
   display: block;
@@ -1746,15 +1747,17 @@ color: #474747;
 }
 .block-slider-team .title-name {
   font-size: 19px;
-  color: #ffd600;
+  color: #995300;
   font-family: '微軟正黑體', cursive;
+  font-weight: bold;
 }
 .block-slider-team .title-position {
   font-size: 16px;
-  color: #898989;
+  color: #995300;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 20px;
+  font-family: '微軟正黑體';
 }
 .block-slider-team .list-social {
   margin-bottom: 0;
