@@ -747,6 +747,10 @@ ul.sub-menu {
   margin-bottom: 15px;
 }
 
+.single-features p{
+  font-family: '微軟正黑體';
+}
+
 #clients{
   padding-bottom: 45px;
 }
