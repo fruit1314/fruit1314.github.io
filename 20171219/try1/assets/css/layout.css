@@ -613,7 +613,7 @@ a:focus {
 }
 .wrapper-header-banner {
   padding: 280px 0;
-  background-image: url(assets/images/home/home01.jpg);
+  background-image: url(../images/home/home_1.JPG);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
