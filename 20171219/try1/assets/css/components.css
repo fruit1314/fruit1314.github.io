@@ -26,6 +26,20 @@ img-glamorous/*----------  0.1. Color  ----------*/
   margin-bottom: 80px;
 }
 
+.vtable table{
+  text-align: center;
+}
+
+.vtable  td{
+  width: 500px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 18px;
+  font-family: "微軟正黑體";
+
+  line-height: 50px;
+}
+
 .wraper-our-success .content-our-success {
   background-color: #fff;
   margin-top: 10px;
@@ -45,7 +59,6 @@ img-glamorous/*----------  0.1. Color  ----------*/
 }
 .wraper-our-success .text-success {
   margin-bottom: 40px;
-  font-family: '微軟正黑體';
 }
 .wraper-our-success .wrapper-col-left-success {
   position: relative;
@@ -1628,7 +1641,7 @@ color: #474747;
 .block-slider-team .slick-next {
   width: 40px;
   height: 40px;
-  background-color: #995300;
+  background-color: #fff491;
   z-index: 100;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -1687,7 +1700,7 @@ color: #474747;
   -o-transition: all 0.4s ease;
 }
 .block-slider-team .wrapper-slider-team.slick-current .links-slider-team {
-  border-color: #995300;
+  border-color: #ffed00;
 }
 .block-slider-team .content-slider-team {
   margin-left: auto;
@@ -1703,7 +1716,7 @@ color: #474747;
   -o-transform: scale(0.7);
 }
 .block-slider-team .slider-team-img:hover .links-slider-team {
-  border-color: #995300;
+  border-color: #ffed00;
 }
 .block-slider-team .slider-team-img .links-slider-team {
   display: block;
@@ -1747,17 +1760,15 @@ color: #474747;
 }
 .block-slider-team .title-name {
   font-size: 19px;
-  color: #995300;
+  color: #ffd600;
   font-family: '微軟正黑體', cursive;
-  font-weight: bold;
 }
 .block-slider-team .title-position {
   font-size: 16px;
-  color: #995300;
+  color: #898989;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 20px;
-  font-family: '微軟正黑體';
 }
 .block-slider-team .list-social {
   margin-bottom: 0;
