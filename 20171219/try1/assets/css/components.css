@@ -1762,6 +1762,7 @@ color: #474747;
   font-size: 19px;
   color:  #995300;
   font-family: '微軟正黑體', cursive;
+  font-weight: bold;
 }
 .block-slider-team .title-position {
   font-size: 16px;
@@ -1769,6 +1770,7 @@ color: #474747;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 20px;
+  font-family: '微軟正黑體';
 }
 .block-slider-team .list-social {
   margin-bottom: 0;
