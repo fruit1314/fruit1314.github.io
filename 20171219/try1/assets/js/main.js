@@ -13,7 +13,7 @@ jQuery(function($){
         /******** LOADING ********/
         setTimeout(function(){
             $(".wrapper-loading").hide();
-        },2000)
+        },3000)
 
         /******** MENU MOBILE ********/
 
