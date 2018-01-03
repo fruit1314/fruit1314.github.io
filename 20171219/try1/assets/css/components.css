@@ -109,13 +109,13 @@ img-glamorous/*----------  0.1. Color  ----------*/
   -o-transform: scale(1, 0);
 
 }
-.links-img-success:hover:after {
+/**.links-img-success:hover:after {
   transform: scale(1, 1);
   -webkit-transform: scale(1, 1);
   -moz-transform: scale(1, 1);
   -ms-transform: scale(1, 1);
   -o-transform: scale(1, 1);
-}
+}**/
 .links-img-success img {
   position: absolute;
   width: auto;
